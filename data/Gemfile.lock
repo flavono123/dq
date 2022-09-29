@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    benchmark (0.2.0)
+    byebug (11.1.3)
+    mini_portile2 (2.8.0)
+    nokogiri (1.13.8)
+      mini_portile2 (~> 2.8.0)
+      racc (~> 1.4)
+    racc (1.6.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  benchmark (~> 0.2.0)
+  byebug (~> 11.1.3)
+  nokogiri (~> 1.13.8)
+
+BUNDLED WITH
+   2.1.4
